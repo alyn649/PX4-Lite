@@ -1,3 +1,11 @@
+# PX4 Lite
+This fork is to try to strip back PX4 to get the minimal functional system for a multirotor
+
+### Baseline Flash
+The baseline flash when building `px4_fmu-v5_default` is:
+- 2036261 B / 98.64% Flash
+- 46360 B / 12.3% SRAM
+
 # PX4 Drone Autopilot
 
 [![Releases](https://img.shields.io/github/release/PX4/PX4-Autopilot.svg)](https://github.com/PX4/PX4-Autopilot/releases) [![DOI](https://zenodo.org/badge/22634/PX4/PX4-Autopilot.svg)](https://zenodo.org/badge/latestdoi/22634/PX4/PX4-Autopilot)
